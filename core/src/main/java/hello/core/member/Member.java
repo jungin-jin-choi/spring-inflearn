@@ -20,4 +20,8 @@ public class Member {
     public String getName() {
         return name;
     }
+
+    public Grade getGrade() {
+        return grade;
+    }
 }
